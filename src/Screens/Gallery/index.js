@@ -5,7 +5,7 @@ import "./styles.css";
 import Footer from "../../Components/Footer";
 
 function Gallery() {
- 
+ //hi
   return (
     <>
       
