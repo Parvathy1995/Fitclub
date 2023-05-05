@@ -4,10 +4,10 @@ import fb from "../Images/facebook.png";
 import logo from "../Images/logo.png";
 import twitter from "../Images/twitter.png";
 import instagram from "../Images/instagram.png";
-import { useNavigate } from "react-router-dom";
+
 
 function Footer() {
-  const navigate = useNavigate();
+ 
   return (
    <div className="footer">
    <div className="social_links">
