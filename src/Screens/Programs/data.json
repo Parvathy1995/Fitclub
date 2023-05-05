@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "https://hips.hearstapps.com/menshealth-uk/main/thumbs/35565/fit2weeks.jpg",
+        "title": "Weight loss program",
+        "price": "10/8/2023 : 12.30 PM"
+    },
+    {
+        "id": 2,
+        "image": "https://www.thesun.co.uk/wp-content/uploads/2022/04/NINTCHDBPICT000723847622.jpg",
+        "title": "Muscle building program",
+        "price": "  22/6/2023 : 10 AM"
+    },
+    {
+        "id": 3,
+        "image": "https://media1.popsugar-assets.com/files/thumbor/KxwLG1jhIWNOIPWPWTtfhOu6OYw/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/02/12/815/n/40038730/ae7af462_edit_img_image_40153017_1455242171/i/Types-People-You-Meet-Gym.png",
+        "title": "Endurance training program",
+        "price": "19/7/2023 : 4 PM"
+    }
+   
+    
+]
